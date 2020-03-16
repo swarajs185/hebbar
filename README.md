@@ -1,3 +1,3 @@
 # hebbar
- Hello gitHub
-This was pretty fun
+ hello 
+ This is my first file in the github
